@@ -13,3 +13,4 @@
 	dependencies {
 	        implementation 'com.github.renwavewave:TitleFilter:Tag'
 	}
+Current latest version: 1.0.0

@@ -1,4 +1,4 @@
-package com.wavewave.popuwindow;
+package com.wavewave.mylibrary;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -48,7 +48,7 @@ public class TitleFilterView extends HorizontalScrollView {
     }
 
     public TitleFilterView(Context context, @Nullable AttributeSet attrs) {
-        this(context, attrs, R.attr.tabStyle);
+        this(context, attrs, 0);
     }
 
     public TitleFilterView(Context context, @Nullable AttributeSet attrs, int defStyleAttr) {

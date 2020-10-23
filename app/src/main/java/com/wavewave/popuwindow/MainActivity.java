@@ -12,6 +12,8 @@ import android.widget.ImageView;
 import android.widget.PopupWindow;
 import android.widget.TextView;
 
+import com.wavewave.mylibrary.TitleFilterView;
+
 import java.util.ArrayList;
 import java.util.List;
 
